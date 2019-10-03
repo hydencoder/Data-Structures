@@ -1,2 +1,2 @@
 # Data-Structures
-This is compilation of data structure assignments.
+This is compilation of data structures.
