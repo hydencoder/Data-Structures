@@ -1,2 +1,2 @@
 # Data-Structures
-This is compilation of data structures.
+These are a compilation of common data structures such as linked lists, graph algorithms, BTree, Hashing etc.
